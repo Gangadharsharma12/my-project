@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "dg_git"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
